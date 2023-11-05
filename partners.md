@@ -38,6 +38,11 @@
 <br>[Link to profile](https://www.cic.ipn.mx/~sidorov/)
 <br>*JOKER@CLEF chair*
 
+* **Tremaine Thomas (Université de Bretagne Occidentale, Brest, France)**
+<br>PhD student
+<br>Full Professor
+<br>*JOKER@CLEF chair*
+
 ## Other organizers: 
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)**
