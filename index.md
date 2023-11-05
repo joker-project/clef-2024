@@ -4,11 +4,11 @@
   <img src="./img/joker.png" width="120" height="142">
 </p>
 
- Home | [Tasks](https://www.joker-project.com/clef-2023/tasks) | [CLEF program](program) | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF 2022](https://www.joker-project.com/clef-2022/EN/project) | [CLEF 2023](https://www.joker-project.com/clef-2023/)
+ Home | [Tasks](https://www.joker-project.com/clef-2024/tasks) | [CLEF program](program) | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF 2022](https://www.joker-project.com/clef-2022/EN/project) | [CLEF 2023](https://www.joker-project.com/clef-2023/)
 <br>
 
 <br>
-  <h1 align="center">CLEF 2023 JOKER Track:</h1>
+  <h1 align="center">CLEF 2024 JOKER Track:</h1>
   <h2 align="center">Automatic Wordplay Analysis</h2> 
 
 ### Topic and goals
