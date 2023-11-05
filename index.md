@@ -68,6 +68,6 @@ In International Conference of the Cross-Language Evaluation Forum for European 
 </div>
 <br />
 <div align="center">
-  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="img/clef2023.png" height="90"></a> 
+  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="img/clef2024.png" height="90"></a> 
 </div>
 
