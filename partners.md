@@ -3,7 +3,7 @@
   <img src="img/joker.png" width="120" height="142">
 </p>
 
-[Home](index) | [Tasks](https://www.joker-project.com/clef-2023/tasks) | [CLEF program](program) | [Publications](publications) | Partners | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF 2022](https://www.joker-project.com/clef-2022/EN/project) | [CLEF 2023](https://www.joker-project.com/clef-2023/)
+[Home](index) | [Tasks](task) | [CLEF program](program) | [Publications](publications) | Partners | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF 2022](https://www.joker-project.com/clef-2022/EN/project) | [CLEF 2023](https://www.joker-project.com/clef-2023/)
 <br>
 
 ## Chairs: 
@@ -38,9 +38,8 @@
 <br>[Link to profile](https://www.cic.ipn.mx/~sidorov/)
 <br>*JOKER@CLEF chair*
 
-* **Tremaine Thomas (Université de Bretagne Occidentale, Brest, France)**
+* **Tremaine Thomas-Young (Université de Bretagne Occidentale, Brest, France)**
 <br>PhD student
-<br>Full Professor
 <br>*JOKER@CLEF chair*
 
 ## Other organizers: 
@@ -169,5 +168,5 @@
 </div>
 <br />
 <div align="center">
-  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="img/clef2023.png" height="90"></a> 
+  <a href="https://clef2022.clef-initiative.eu/index.php"><img src="img/clef2024.png" height="90"></a> 
 </div>
