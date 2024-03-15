@@ -38,9 +38,6 @@
 <br>[Link to profile](https://www.cic.ipn.mx/~sidorov/)
 <br>*JOKER@CLEF chair*
 
-* **Tremaine Thomas-Young (Université de Bretagne Occidentale, Brest, France)**
-<br>PhD student
-<br>*JOKER@CLEF chair*
 
 ## Other organizers: 
 
