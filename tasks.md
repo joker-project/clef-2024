@@ -14,7 +14,7 @@
 ### Tasks, evaluation setup, and metrics
 In the edition, we propose three shared tasks:
 * **Task 1: Humour-aware information retrieval** Retrieving short humorous texts from a document collection.
-* **Task 2: Humour classification \\according to genre and technique** 
+* **Task 2: Humour classification according to genre and technique** 
 * **Task 3: Pun translation** Classify humorous texts according to the main theories of humour: the relief theory, the incongruity theory, and the superiority theory.
 * **Open Task:** In addition, we encourage the use of our data for tasks related to computational wordplay and humour. These could take the form of experiment reports on humour perception, evaluation, wordplay generation, or user studies. Register for any of the aforementioned shared task if you are interested in this open task.
 
