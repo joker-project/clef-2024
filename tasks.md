@@ -3,7 +3,7 @@
   <img src="./img/joker.png" width="120" height="142">
 </p>
 
-[Home](index) | Tasks | [CLEF program](program) | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF 2022](https://www.joker-project.com/clef-2022/EN/project) | [CLEF 2023](https://www.joker-project.com/clef-2023/)
+[Home](index) | Tasks | [CLEF program](program) | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [CLEF 2022](https://www.joker-project.com/clef-2022/EN/project) | [CLEF 2023](https://www.joker-project.com/clef-2023/)
 <br>
 
 <br>
@@ -14,7 +14,7 @@
 ### Tasks, evaluation setup, and metrics
 In the edition, we propose three shared tasks:
 * **Task 1: Humour-aware information retrieval** Retrieving short humorous texts from a document collection.
-* **Task 2: Humour classification according to genre and technique** 
+* **Task 2: Humour classification according to genre and technique** Classifying short texts of humor among the different classes such as Irony, Sarcasm, Exaggeration, Incongruity, Absurdity, etc.
 * **Task 3: Pun translation** Translate English punning jokes into French preserving wordplay form and wordplay meaning.
 * **Open Task:** In addition, we encourage the use of our data for tasks related to computational wordplay and humour. These could take the form of experiment reports on humour perception, evaluation, wordplay generation, or user studies. Register for any of the aforementioned shared task if you are interested in this open task.
 
