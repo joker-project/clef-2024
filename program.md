@@ -11,6 +11,6 @@
 * [CLEF registration] Yet to be posted.
 * [CLEF program] Yet to be posted.
 * [CLEF LNCS Proceedings] Yet to be posted.
-* [CLEF Working Notes] Yet to be posted.
-
+* [CLEF Working Notes] Due 5 June 2023 (STRICT DEADLINE).
+**CEUR-WS Camera Ready Working Notes Papers due 7 July 2023 (STRICT DEADLINE)**
 
