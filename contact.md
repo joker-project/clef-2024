@@ -3,8 +3,7 @@
   <img src="img/joker.png" width="120" height="142">
 </p>
 
-[Home](index) | [Tasks](https://www.joker-project.com/clef-2023/tasks) | [CLEF program](program) | [Publications](https://www.joker-project.com/clef-2024/publications) | [Partners](partners) | [Contest](contest) | Contact Us |  [CLEF 2022](https://www.joker-project.com/clef-2022/EN/project)  
-<br>
+{% include navbar.md %}
 
 ## Contact us via:
 <br>

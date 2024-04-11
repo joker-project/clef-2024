@@ -6,8 +6,6 @@
 
 {% include navbar.md %}
 
-[Home](https://www.joker-project.com/clef-2024/) | [Tasks](https://www.joker-project.com/clef-2024/tasks) | [CLEF&nbsp;program](program) | [Publications](https://www.joker-project.com/clef-2024/publications) | [Partners](partners) | [Contest](contest) | [Contact&nbsp;Us](contact) | [CLEF&nbsp;2022](https://www.joker-project.com/clef-2022/EN/project) | [CLEF&nbsp;2023](https://www.joker-project.com/clef-2023/)
-
 <br>
   <h1 align="center">CLEF 2024 JOKER Track:</h1>
   <h2 align="center">Automatic Humour Analysis</h2> 

@@ -4,8 +4,7 @@
   <img src="./img/joker.png" width="120" height="142">
 </p>
 
- [Home](index) | [Tasks](https://www.joker-project.com/clef-2023/tasks) | [Project](project) | Publications | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF-2023](../../clef-2023)
-<br>
+{% include navbar.md %}
 
 <h2 align="center">Publications related to the JOKER project</h2>
 
