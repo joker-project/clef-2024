@@ -4,7 +4,9 @@
   <img src="./img/joker.png" width="120" height="142">
 </p>
 
-<p align="center" style="text-wrap: balance">[Home](https://www.joker-project.com/clef-2024/) | [Tasks](https://www.joker-project.com/clef-2024/tasks) | [CLEF&nbsp;program](program) | [Publications](https://www.joker-project.com/clef-2024/publications) | [Partners](partners) | [Contest](contest) | [Contact&nbsp;Us](contact) | [CLEF&nbsp;2022](https://www.joker-project.com/clef-2022/EN/project) | [CLEF&nbsp;2023](https://www.joker-project.com/clef-2023/)</p>
+<p align="center" style="text-wrap: balance">
+[Home](https://www.joker-project.com/clef-2024/) | [Tasks](https://www.joker-project.com/clef-2024/tasks) | [CLEF&nbsp;program](program) | [Publications](https://www.joker-project.com/clef-2024/publications) | [Partners](partners) | [Contest](contest) | [Contact&nbsp;Us](contact) | [CLEF&nbsp;2022](https://www.joker-project.com/clef-2022/EN/project) | [CLEF&nbsp;2023](https://www.joker-project.com/clef-2023/)
+</p>
 
 <br>
   <h1 align="center">CLEF 2024 JOKER Track:</h1>
