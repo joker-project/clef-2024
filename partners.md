@@ -12,8 +12,8 @@
 <br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana)
 <br>*Project Leader, General chair*
 
-* **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
-<br>Language and Interaction Technologies Group at OFAI
+* **Tristan Miller (University of Manitoba, Canada)**
+<br>Assistant Professor, Department of Computer Science
 <br>[Link to profile](https://logological.org/) 
 <br>*JOKER@CLEF chair*
 
