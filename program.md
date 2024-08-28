@@ -60,7 +60,7 @@ _Overview of the CLEF 2024 JOKER Task 3: Translate puns from English to French_.
 
 ### CONFERENCE Session 4 In-Context Evaluation and Retrieval (ROOM 1) 
 
-* **9:20-9:40** Ryan Rony Dsilva, _From Sentence Embeddings to Large Language Models to Detect and Understand Wordplay_ (JOKER Best of the Labs in CLEF 2023, [Paper](XXX)).
+* **9:20-9:40** **Ryan Rony Dsilva**, _From Sentence Embeddings to Large Language Models to Detect and Understand Wordplay_ (JOKER Best of the Labs in CLEF 2023, [Paper](XXX)).
 
 ### JOKER Session 3 (ROOM 5)
 
