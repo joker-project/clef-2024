@@ -21,9 +21,9 @@
 
 ## Tuesday 10th September 
 
-JOKER Sessions takes place in **ROOM 5** except for the plenary track overviews.
+JOKER Sessions takes place in **Room 2** except for the plenary track overviews.
 
-### Lab Overviews 2 (ROOM 1)
+### Lab Overviews 2 (Room 1)
 * **09:00 - 10:40**	Lab Overviews 2 [Room 1]: ImageCLEF, CheckThat!, **JokerLab**, Pan, qCLEF
 
 * **Liana Ermakova**, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2024. _Overview of CLEF 2024 JOKER track on Automatic Humor Analysis_, in:
@@ -31,7 +31,7 @@ Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX),
   
 ## Wednesday 11th September 
 
-### JOKER Session 1 (ROOM 5)
+### JOKER Session 1 (Room 2)
 
 * **14:00 - 15:30** CLEF 2024 JOKER Task Overviews ([Slides](XXX)):
 
@@ -47,7 +47,7 @@ _Overview of the CLEF 2024 JOKER Task 2: Humour Classification According to Genr
 _Overview of the CLEF 2024 JOKER Task 3: Translate puns from English to French_.
 ([Paper](https://ceur-ws.org/Vol-3740/paper-167.pdf))
 
-### JOKER Session 2 (ROOM 5)
+### JOKER Session 2 (Room 2)
 
 * **16:30 - 18:00** CLEF 2024 Participant presentations (n+5 minutes).
 
@@ -58,11 +58,11 @@ _Overview of the CLEF 2024 JOKER Task 3: Translate puns from English to French_.
   
 ## Thursday 12th September
 
-### CONFERENCE Session 4 In-Context Evaluation and Retrieval (ROOM 1) 
+### CONFERENCE Session 4 In-Context Evaluation and Retrieval (Room 1) 
 
 * **9:20-9:40** **Ryan Rony Dsilva**, _From Sentence Embeddings to Large Language Models to Detect and Understand Wordplay_ (JOKER Best of the Labs in CLEF 2023, [Paper](XXX)).
 
-### JOKER Session 3 (ROOM 5)
+### JOKER Session 3 (Room 2)
 
 * **11:15-12:00** CLEF 2024 Participant presentations (n+5 minutes).
 
