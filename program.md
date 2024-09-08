@@ -61,7 +61,7 @@ _Overview of the CLEF 2024 JOKER Task 2: Humour Classification According to Genr
 _Overview of the CLEF 2024 JOKER Task 3: Translate puns from English to French_.
 ([Paper](https://ceur-ws.org/Vol-3740/paper-167.pdf))
 
-* **14:30 - 15:30** Participants presentations (10+5 min)
+* **14:30 - 15:30** Participants presentations (10+2 min)
   
 * Shih-Hung Wu, Yu-Feng Huang, Tsz-Yeung Lau.
 _Humour Classification by Fine-tuning LLMs: CYUT at CLEF 2024 JOKER Lab Subtask Humour Classification According to Genre and Technique_.
