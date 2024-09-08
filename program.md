@@ -20,6 +20,9 @@
 ------------------------------------------------------------
 JOKER Sessions takes place in **Room 2** (_IMAG Auditorium_) except for the plenary CLEF conference sessions in **Room 1** (_MaCI Amphitheatre_).
 
+* Zoom link for track sessions: [Virtual CLEF Room 2](https://uva-live.zoom.us/j/89530993754).
+* If you registered for CLEF (online), the conference will provide the links for plenary sessions.
+
 ## Tuesday 10th September 
 
 ### Lab Overviews 2 (Room 1)
