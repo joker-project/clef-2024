@@ -18,10 +18,9 @@
 * [CLEF 2024 Working Notes](https://ceur-ws.org/Vol-3740/)
 
 ------------------------------------------------------------
+JOKER Sessions takes place in **Room 2** (_IMAG Auditorium_) except for the plenary CLEF conference sessions in **Room 1** (_MaCI Amphitheatre_).
 
 ## Tuesday 10th September 
-
-JOKER Sessions takes place in **Room 2** except for the plenary track overviews.
 
 ### Lab Overviews 2 (Room 1)
 * **09:00 - 10:40**	Lab Overviews 2 [Room 1]: ImageCLEF, CheckThat!, **JokerLab**, Pan, qCLEF
