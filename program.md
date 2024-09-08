@@ -101,7 +101,7 @@ _Comparative Evaluation of Humour Translation from English to Spanish: A Study w
 _CLEF 2024 JOKER Task 2 : Using RoBERTa and Bert-uncased for Humour Classification According to Genre and Technique_.
 ([Paper](https://ceur-ws.org/Vol-3740/paper-176.pdf))
 
-* 📶 *M Saipranav*, Jaswanth Sridharan, Gautham Narayan G, Angel Deborah S, Rajalakshmi S, Mirnalinee T T, Samyuktaa Sivakumar.
+* 📶 **M Saipranav**, Jaswanth Sridharan, Gautham Narayan G, Angel Deborah S, Rajalakshmi S, Mirnalinee T T, Samyuktaa Sivakumar.
 _CLEF 2024 JOKER Task 2: Using BERT and Random Forest Classifier for Humor Classification According to Genre and Technique_.
 ([Paper](https://ceur-ws.org/Vol-3740/paper-180.pdf))
 
