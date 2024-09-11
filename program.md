@@ -29,7 +29,7 @@ JOKER Sessions takes place in **Room 2** (_IMAG Auditorium_) except for the plen
 * **09:00 - 10:40**	Lab Overviews 2 [Room 1]: ImageCLEF, CheckThat!, **JokerLab**, Pan, qCLEF
 
 * **Liana Ermakova**, Tristan Miller, Anne-Gwenn Bosser, Victor Manuel Palma Preciado, Grigori Sidorov, and Adam Jatowt. 2024. _Overview of CLEF 2024 JOKER track on Automatic Humor Analysis_, in:
-Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX), [Slides](XXX)).
+Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX), [Slides](slides/JOKER_CLEF_2024_presentation.pdf)).
 
 ### Joint session with SimpleText Session 4 (Room 2)
 
