@@ -55,11 +55,11 @@ _NLPalma Joker 2024: Yet, no Humor with Humorousness - Task 2 Humour Classificat
 _Overview of the CLEF 2024 JOKER Task 1: Humour-aware Information Retrieval_. 
 ([Paper](https://ceur-ws.org/Vol-3740/paper-165.pdf))
 
-* **Victor Manuel Palma Preciado**, Grigori Sidorov, Liana Ermakova, Anne-Gwenn Bosser, Tristan Miller, Adam Jatowt. 
+* Victor Manuel Palma Preciado, Grigori Sidorov, **Liana Ermakova**, Anne-Gwenn Bosser, Tristan Miller, Adam Jatowt. 
 _Overview of the CLEF 2024 JOKER Task 2: Humour Classification According to Genre and Technique_. 
 ([Paper](https://ceur-ws.org/Vol-3740/paper-166.pdf))
 
-* Liana Ermakova, Anne-Gwenn Bosser, Tristan Miller, **Adam Jatowt**. 
+* **Liana Ermakova**, Anne-Gwenn Bosser, Tristan Miller, Adam Jatowt. 
 _Overview of the CLEF 2024 JOKER Task 3: Translate puns from English to French_.
 ([Paper](https://ceur-ws.org/Vol-3740/paper-167.pdf))
 
