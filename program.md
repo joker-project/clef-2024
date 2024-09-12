@@ -117,7 +117,7 @@ _PunDerstand @ CLEF JOKER 2024: Who’s Laughing Now? Humor Classification by Ge
 
 ### CONFERENCE Session 4 In-Context Evaluation and Retrieval (Room 1) 
 
-* **9:00-9:20** **Ryan Rony Dsilva**, _From Sentence Embeddings to Large Language Models to Detect and Understand Wordplay_ (JOKER Best of the Labs in CLEF 2023, [Paper](XXX)).
+* **9:00-9:20** **Ryan Rony Dsilva**, _From Sentence Embeddings to Large Language Models to Detect and Understand Wordplay_ (JOKER Best of the Labs in CLEF 2023, [Paper](https://doi.org/10.1007/978-3-031-71736-9_15)).
 
 ### JOKER Session 3 (Room 2)
 
@@ -137,7 +137,7 @@ _CLEF 2024 JOKER Tasks 1-3: Humour identification and classification_.
 
 ### Closing and Introduction of CLEF 2025 (Room 1)
 
-* **17:00 - 18:00** Closing and plans for 2025 (including [slides](XXX) on the CLEF 2025 JOKER track)
+* **17:00 - 18:00** Closing and plans for 2025 (including slides on the CLEF 2025 JOKER track)
 
 ## All CLEF 2024 JOKER track papers 
 
