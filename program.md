@@ -121,7 +121,7 @@ _PunDerstand @ CLEF JOKER 2024: Who’s Laughing Now? Humor Classification by Ge
 
 ### JOKER Session 3 (Room 2)
 
-* **11:15-12:00** 📶 Invited talk by Pavel Braslavski (Nazarbayeb University) _“What will be laughing about tomorrow? A brief overview of today's computational humour research”_
+* **11:15-12:00** 📶 Invited talk by Pavel Braslavski (Nazarbayeb University) _“What you will be laughing about tomorrow? A brief overview of today's computational humour research”_
 
 ***12:00 - 12:12** Participant presentations (10+2 minutes)
 
