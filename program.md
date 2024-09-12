@@ -49,7 +49,7 @@ _NLPalma Joker 2024: Yet, no Humor with Humorousness - Task 2 Humour Classificat
 
 ### JOKER Session 1 (Room 2)
 
-* **14:00 - 14:30** CLEF 2024 JOKER Task Overviews ([Slides](XXX)):
+* **14:00 - 14:30** CLEF 2024 JOKER Task Overviews ([Slides](slides/CLEF24_JOKER_Task_Overviews.pdf)):
 
 * **Liana Ermakova**, Anne-Gwenn Bosser, Tristan Miller, Adam Jatowt. 
 _Overview of the CLEF 2024 JOKER Task 1: Humour-aware Information Retrieval_. 
