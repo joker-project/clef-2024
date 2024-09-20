@@ -70,7 +70,7 @@ _Humour Classification by Fine-tuning LLMs: CYUT at CLEF 2024 JOKER Lab Subtask 
 
 * Emma Schuurman, Mick Cazemier, Luc Buijs, **Jaap Kamps**.
 _University of Amsterdam at the CLEF 2024 Joker Track_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-181.pdf), [Slides](slides/clef24-uva-joker.pdf))
+([Paper](https://ceur-ws.org/Vol-3740/paper-181.pdf), [Slides](slides/clef24uva-joker.pdf))
 
 * 📶 **Arina Gepalova**, Adrian-Gabriel Chifu, Sébastien Fournier.
 _CLEF 2024 Joker Task 1: Exploring Pun Detection Using The T5 Transformer Model_.
