@@ -11,11 +11,10 @@
 
 * [CLEF 2024 registration](https://clef2024.clef-initiative.eu/index.php?page=Pages/conference_registration.html)
 * [CLEF 2024 program](https://clef2024.clef-initiative.eu/index.php?page=Pages/programme.html)
-* [CLEF 2024 LNCS Proceedings, Vol I](https://link.springer.com/book/9783031717352)
-* DOI [CLEF 2024 LNCS Proceedings, Vol I](https://doi.org/10.1007/978-3-031-71735-2)
-* [CLEF 2024 LNCS Proceedings, Vol II](https://link.springer.com/book/9783031719073)
-* DOI [CLEF 2024 LNCS Proceedings, Vol II](https://doi.org/10.1007/978-3-031-71908-0)
+* [CLEF 2024 LNCS Proceedings, Vol I](https://doi.org/10.1007/978-3-031-71736-9)
+* [CLEF 2024 LNCS Proceedings, Vol II](https://doi.org/10.1007/978-3-031-71908-0)
 * [CLEF 2024 Working Notes](https://ceur-ws.org/Vol-3740/)
+  
 
 ------------------------------------------------------------
 JOKER Sessions takes place in **Room 2** (_IMAG Auditorium_) except for the plenary CLEF conference sessions in **Room 1** (_MaCI Amphitheatre_).
