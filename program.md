@@ -78,7 +78,7 @@ _CLEF 2024 Joker Task 1: Exploring Pun Detection Using The T5 Transformer Model_
 
 * 📶 **Pierre Epron**, Gaël Guibon, Miguel Couceiro.
 _ORPAILLEUR & SyNaLP at CLEF 2024 Task 2: Good Old Cross Validation for Large Language Models Yields the Best Humorous Detection_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-172.pdf))
+([Paper](https://ceur-ws.org/Vol-3740/paper-172.pdf), [Slides](slides/JokerCLEF2024Epron.pdf))
 
 ### JOKER Session 2 (Room 2)
 
@@ -86,7 +86,7 @@ _ORPAILLEUR & SyNaLP at CLEF 2024 Task 2: Good Old Cross Validation for Large La
 
 * 📶 **Regina Elagina**, Petra Vučić.
 _Working Notes of CLEF 2024: Effective Humor Analysis and Translation_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-171.pdf))
+([Paper](https://ceur-ws.org/Vol-3740/paper-171.pdf), [Slides](slides/JokerCLEF2024ReginaPetra.pdf))
 
 * 📶 Jana Viktória Kováčiková, **Marek Šuppa**.
 _Thinking, Fast and Slow: From the Speed of FastText to the Depth of Retrieval Augmented Large Language Models For Humour Classification_.
@@ -94,7 +94,7 @@ _Thinking, Fast and Slow: From the Speed of FastText to the Depth of Retrieval A
 
 * 📶 **Olga Popova**.
 _Comparative Evaluation of Humour Translation from English to Spanish: A Study with BLOOM and Googletrans_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-178.pdf))
+([Paper](https://ceur-ws.org/Vol-3740/paper-178.pdf), [Slides](slides/JokerCLEF2024Popova.pdf))
 
 * 📶 **Sarvesh Narayanan**, Jayasimman J, Shiva Ganesh V.
 _CLEF 2024 JOKER Task 2 : Using RoBERTa and Bert-uncased for Humour Classification According to Genre and Technique_.
@@ -106,11 +106,11 @@ _CLEF 2024 JOKER Task 2: Using BERT and Random Forest Classifier for Humor Class
 
 * 📶 **Rakshith Subramanian**, Vaishnavi S, B Bharathi.
 _Team Humour Insights at JOKER 2024 Task 2: Humour Classification According To Genre And Technique_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-182.pdf))
+([Paper](https://ceur-ws.org/Vol-3740/paper-182.pdf), [Slides](slides/JokerCLEF2024RakshithSubramanian.pdf))
 
 * 📶 **Ryan Rony Dsilva**, Nidhi Bhardwaj. 
 _PunDerstand @ CLEF JOKER 2024: Who’s Laughing Now? Humor Classification by Genre & Technique_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-170.pdf))
+([Paper](https://ceur-ws.org/Vol-3740/paper-170.pdf), [Slides](slides/JokerCLEF2024Dsilva.pdf))
 
 ## Thursday 12th September
 
@@ -126,7 +126,7 @@ _PunDerstand @ CLEF JOKER 2024: Who’s Laughing Now? Humor Classification by Ge
 
 * 📶 Rowan Mann, **Tomislav Mikulandric**.
 _CLEF 2024 JOKER Tasks 1-3: Humour identification and classification_.
-([Paper](https://ceur-ws.org/Vol-3740/paper-175.pdf))
+([Paper](https://ceur-ws.org/Vol-3740/paper-175.pdf), [Slides](slides/JokerCLEF2024Tomislav.pdf))
 
 * **12:12 - 12:45** Round table and JOKER 2025 discussion:
     * We want to hear from *you*!
